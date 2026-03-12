@@ -1,5 +1,5 @@
 # 💫 About Me:
-Vibe Coder ⚡<br><br>- 💥 "I destroy everything I touch"<br>- 😵‍💫 I don’t know about anything, but I still code anyway<br>- 🐛 A walking bug generator, yet things somehow still work<br>- 🔥 Learning by breaking… then fixing… then breaking again<br>- 🎉 If it compiles, we celebrate. If it crashes, we learn nothing<br>- 💳 Send me money pwease
+## Vibe Coder ⚡<br><br>- 💥 "I destroy everything I touch"<br>- 😵‍💫 I don’t know about anything, but I still code anyway<br>- 🐛 A walking bug generator, yet things somehow still work<br>- 🔥 Learning by breaking… then fixing… then breaking again<br>- 🎉 If it compiles, we celebrate. If it crashes, we learn nothing<br>- 💳 Send me money pwease
 
 
 ## 🌐 Socials:
